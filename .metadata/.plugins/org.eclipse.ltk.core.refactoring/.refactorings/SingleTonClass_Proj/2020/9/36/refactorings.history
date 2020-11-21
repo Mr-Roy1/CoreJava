@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Abc&apos; to &apos;Demo1&apos;&#x0D;&#x0A;- Original project: &apos;SingleTonClass_Proj&apos;&#x0D;&#x0A;- Original element: &apos;Abc&apos;&#x0D;&#x0A;- Renamed element: &apos;Demo1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Abc&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Abc.java[Abc" matchStrategy="1" name="Demo1" qualified="false" references="true" similarDeclarations="false" stamp="1599054873411" textual="false" version="1.0"/>
+</session>
